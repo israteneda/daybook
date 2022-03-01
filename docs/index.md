@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Daybook
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is a compilation of ideas, lessons learned and areas in which I want to improve.
+Te idea behind this website is to have a record of all the knowledge I gather as a developer.
+Ideally, I'll add content on a daily basis. This site is inspired by [Engineering Daybooks - The Pragmatic Programmer](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/f_0041.xhtml)
 
-## Commands
+## Topics
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+1. [English](english/introduction.md)
+2. [Algorithms and Interview Prep](algorithms/introduction.md)
+3. [Python and Software Dev](python/introduction.md)
