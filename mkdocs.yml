@@ -11,3 +11,11 @@ theme:
     toggle:
       icon: material/toggle-switch
       name: Switch to light mode
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCwebj3UxpFP1hCgje16QxiQ
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/israteneda/
+    - icon: fontawesome/brands/github
+      link: https://github.com/israteneda
