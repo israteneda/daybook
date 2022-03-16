@@ -8,4 +8,4 @@ Ideally, I'll add content on a daily basis. This site is inspired by [Engineerin
 
 1. [English](english/introduction.md)
 2. [Algorithms and Interview Prep](algorithms/introduction.md)
-3. [Python and Software Dev](python/introduction.md)
+3. [Python and Software Dev](dev/introduction.md)

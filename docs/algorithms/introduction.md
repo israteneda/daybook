@@ -1,0 +1,1 @@
+I'm going to start reading [Grooking Algorithms](https://learning.oreilly.com/library/view/grokking-algorithms/9781617292231)
