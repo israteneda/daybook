@@ -1,4 +1,8 @@
 site_name: Daybook
+site_url: https://israteneda.com/
+repo_name: israteneda/daybook
+repo_url: https://github.com/israteneda/daybook
+edit_uri: edit/main/docs/
 
 theme:
   name: material
