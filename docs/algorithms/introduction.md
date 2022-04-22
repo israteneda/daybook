@@ -5,3 +5,5 @@ I'll start solving problems in [leetcode.com](https://leetcode.com/) and updatin
 An interesting repo that I'd like to take a look is [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 An intresting website to learn algorithms is [algo.monster](https://algo.monster/)
+
+After some time without progess (because I didn't put enough effort). I'll start checking this site: [techinterviewhandbook](https://www.techinterviewhandbook.org/) along with [Grokking Algorithms]((https://learning.oreilly.com/library/view/grokking-algorithms/9781617292231)) book
