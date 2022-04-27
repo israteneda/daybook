@@ -1,6 +1,6 @@
 # Grokking Algorithms
 
-## Chapter 1
+## Chapter 1 - Introduction to Algorithms
 
 Talks about what is an algorithm (a serie of steps to solve a problem)
 How to messure an algorithm (Big O notation)
@@ -26,7 +26,7 @@ def binary_search(list_: typing.List[], item: int):
 ```
 
 
-## Chapter 2
+## Chapter 2 - Selection Sort
 
 - A computer memory is like an Excel sheet and each cell has his address.
 - A list uses continuous memory and save items continuously, 
@@ -54,3 +54,12 @@ def selection_sort(arr: typing.List[]):
 
     return new_arr
 ```
+
+
+## Chapter 3 - Recursion
+
+- Recursion is when a function calls itself.
+- Every recursive function has two cases: the base case and the recursive case.
+- A  stack has two operations: push and pop.
+- All function calls go onto the call stack.
+- The call stack can get very large, which takes up a lot of memory.
